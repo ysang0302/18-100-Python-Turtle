@@ -1,5 +1,8 @@
 # 18-100-Python-Turtle-Challenge
 
+This is 18/100 days of coding: the Complex Python Pro Bootcamp for 2022.
+
+We introduced a new library "turtle" that turning lines of code into graphical output.
 
 1.draw different shapes
 
